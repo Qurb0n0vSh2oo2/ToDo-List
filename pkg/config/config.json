@@ -1,0 +1,10 @@
+{
+    "db": {
+        "database": "topro",
+        "username": "postgres",
+        "password": "3302"
+    },
+
+    "port": "3330",
+    "host": "localhost"
+}
